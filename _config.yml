@@ -26,7 +26,7 @@ author:
   avatar           : "https://junlinw113.github.io/images/profile.jpg"
   name             : "Junlin Wei (韦俊林)"
   pronouns         : # example: "she/her"  
-  bio              : "不能飛的豬，就只是頭普通的豬而已。"
+  bio              : "不能飛的豬，<br>就只是頭普通的豬而已。"
   location         : "Beijing, China"
   employer         : "JD.com"
   uri              : # URL
