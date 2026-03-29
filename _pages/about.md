@@ -34,3 +34,13 @@ I currently conduct AI infrastructure R&D at JD.com, primarily focusing on [elas
 - **[2024年度“中国十大气象科技进展”](https://www.cma.gov.cn/ztbd/2025zt/20250323/2025032306/202503/t20250323_6941621.html)**
 - 
   `跨异构超算的全球公里级气候海洋模拟:LICOMK++性能可移植与科学试验双突破`
+
+# Professional Experience
+
+- **Tencent Interactive Entertainment Group (IEG) | Research Intern**
+  
+  `July - September 2025, Shenzhen, Guangdong, China`
+  
+- **Sogou Inc. | Algorithm Intern**
+  
+  `July - August 2025, Beijing, China`
