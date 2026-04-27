@@ -39,6 +39,10 @@ I currently conduct AI infrastructure R&D at JD.com, primarily focusing on [elas
 
 # Professional Experience
 
+- **JD Technology, JD.com, Inc.**
+  
+  `Algorithm Engineer, February 2026 - Present, Beijing, China`
+
 - **Tencent Interactive Entertainment Group (IEG)**
   
   `Research Intern, July - September 2025, Shenzhen, Guangdong, China`
