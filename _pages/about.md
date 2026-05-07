@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I currently conduct AI infrastructure R&D at JD.com, primarily focusing on [elastic inference for large-scale EP in MoE LLMs](https://lmsys.org/blog/2026-03-25-eep-partial-failure-tolerance/). I earned my Ph.D. in 2026 from the Computer Network Information Center (CNIC), Chinese Academy of Sciences (CAS), and the University of the Chinese Academy of Sciences (UCAS), during which I also participated in a joint Ph.D. program at Pengcheng Laboratory. My doctoral research centered on the intersection of HPC and ocean/climate modeling, as well as performance portability techniques for China's homegrown heterogeneous architectures.
+I currently conduct AI infrastructure R&D at JD.com, primarily focusing on [elastic inference for large-scale EP in MoE LLMs](https://lmsys.org/blog/2026-03-25-eep-partial-failure-tolerance/). I earned my Ph.D. in 2026 from the Computer Network Information Center (CNIC), Chinese Academy of Sciences (CAS), and the University of the Chinese Academy of Sciences (UCAS), during which I also participated in a joint Ph.D. program at the Pengcheng Laboratory. My doctoral research centered on the intersection of HPC and ocean/climate modeling, as well as performance portability techniques for China's homegrown heterogeneous architectures.
 
 # Selected Publications
 
@@ -16,10 +16,12 @@ I currently conduct AI infrastructure R&D at JD.com, primarily focusing on [elas
 - **[SC'25]** Kai Xu, Maoxue Yu, Yuhu Chen, Jie Gao, Shuang Wang, Jiaying Song, Xiaohui Duan, **<u>Junlin Wei</u>**, Jiangfeng Yu, Hailong Liu, Jinrong Jiang, Yi Zhang, Pengfei Lin, Tianyi Wang, Pengfei Wang, Weipeng Zheng, Jingwei Xie, Jiakang Zhang, Zilu Liu, Xiaoyu Jin, Jilin Wei, Qixin Chang, Qingxia Lin, Yanzhi Zhou, Weiguo Liu, Wei Xue, Yiwen Li, Haohuan Fu, Yue Yu, Xuebin Chi, Lixin Wu. ***Kilometer-Scale AI-Powered and Performance-Portable Earth System Model (AP3ESM) to Achieve Year-Scale Simulation Speed on Heterogeneous Supercomputers***. [**Paper**](https://dl.acm.org/doi/10.1145/3712285.3771788)
 
 - **[SC'24]** **<u>Junlin Wei</u>**, Xiang Han, Jiangfeng Yu, Jinrong Jiang, Hailong Liu, Pengfei Lin, Maoxue Yu, Kai Xu, Lian Zhao, Pengfei Wang, Weipeng Zheng, Jingwei Xie, Yanzhi Zhou, Tao Zhang, Feng Zhang, Yehong Zhang, Yue Yu, Yuzhu Wang, Yidi Bai, Chen Li, Zipeng Yu, Haoyu Deng, Yaxin Li, Xuebin Chi. ***A Performance-Portable Kilometer-Scale Global Ocean Model on ORISE and New Sunway Heterogeneous Supercomputers***. [**Paper**](https://ieeexplore.ieee.org/document/10793221)
-  
-- **[The Innovation]** Jingwei Xie, Jiangfeng Yu, Yanzhi Zhou, Hailong Liu, **<u>Junlin Wei</u>**, Xiang Han, Kai Xu, Maoxue Yu, Zipeng Yu, Pengfei Lin, Jinrong Jiang, Weipeng Zheng, Tao Zhang, Rong Wang, Zhao Jing, Lixin Wu. ***A 1-km resolution global ocean simulation promises to unveil oceanic multi-scale dynamics and climate impacts***. [**Paper**](https://www.cell.com/the-innovation/fulltext/S2666-6758(25)00046-3)
 
-- **[GMD]**  Pengfei Wang, Jinrong Jiang, Pengfei Lin, Mengrong Ding, **<u>Junlin Wei</u>**, Feng Zhang, Lian Zhao, Yiwen Li, Zipeng Yu, Weipeng Zheng, Yongqiang Yu, Xuebin Chi, Hailong Liu. ***The GPU version of LASG/IAP Climate System Ocean Model version 3 (LICOM3) under the heterogeneous-compute interface for portability (HIP) framework and its large-scale application***. [**Paper**](https://gmd.copernicus.org/articles/14/2781/2021/gmd-14-2781-2021.html)
+- **[FGCS]** **<u>Junlin Wei</u>**, Pengfei Lin, Jinrong Jiang, Hailong Liu, Lian Zhao, Yehong Zhang, Xiang Han, Feng Zhang, Jian Huang, Yuzhu Wang, Youyun Li, Yue Yu, Xuebin Chi. ***Accelerating LASG/IAP Climate System Ocean Model version 3 for Performance Portability using Kokkos***. [**Paper**](https://dl.acm.org/doi/10.1016/j.future.2024.06.029)
+  
+- **[The Innovation]** Jingwei Xie, Jiangfeng Yu, Yanzhi Zhou, Hailong Liu, **<u>Junlin Wei</u>**, Xiang Han, Kai Xu, Maoxue Yu, Zipeng Yu, Pengfei Lin, Jinrong Jiang, Weipeng Zheng, Tao Zhang, Rong Wang, Zhao Jing, Lixin Wu. ***A 1-km Resolution Global Ocean Simulation Promises to Unveil Oceanic Multi-Scale Dynamics and Climate Impacts***. [**Paper**](https://www.cell.com/the-innovation/fulltext/S2666-6758(25)00046-3)
+
+- **[GMD]**  Pengfei Wang, Jinrong Jiang, Pengfei Lin, Mengrong Ding, **<u>Junlin Wei</u>**, Feng Zhang, Lian Zhao, Yiwen Li, Zipeng Yu, Weipeng Zheng, Yongqiang Yu, Xuebin Chi, Hailong Liu. ***The GPU version of LASG/IAP Climate System Ocean Model version 3 (LICOM3) under the Heterogeneous-compute Interface for Portability (HIP) Framework and its Large-Scale Application***. [**Paper**](https://gmd.copernicus.org/articles/14/2781/2021/gmd-14-2781-2021.html)
 
 # Awards & Honors
 
